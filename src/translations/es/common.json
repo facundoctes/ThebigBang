@@ -1,0 +1,9 @@
+{
+    "header": {
+        "createRoom": "Crear Sala"
+    },
+    "rooms": {
+        "room": "Sala",
+        "rooms": "Salas"
+    }
+}
